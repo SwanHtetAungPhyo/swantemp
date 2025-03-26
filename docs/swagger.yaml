@@ -1,0 +1,56 @@
+definitions:
+  main.user:
+    properties:
+      name:
+        type: string
+    type: object
+info:
+  contact: {}
+paths:
+  /user:
+    get:
+      description: Returns user details
+      produces:
+      - application/json
+      responses:
+        "202":
+          description: User retrieved successfully
+          schema:
+            additionalProperties: true
+            type: object
+        "500":
+          description: Internal Server Error
+          schema:
+            additionalProperties: true
+            type: object
+      summary: Get a user
+      tags:
+      - User
+    post:
+      consumes:
+      - application/json
+      description: Creates a new user with the given details
+      parameters:
+      - description: User data
+        in: body
+        name: user
+        required: true
+        schema:
+          $ref: '#/definitions/main.user'
+      produces:
+      - application/json
+      responses:
+        "202":
+          description: User created successfully
+          schema:
+            additionalProperties: true
+            type: object
+        "500":
+          description: Internal Server Error
+          schema:
+            additionalProperties: true
+            type: object
+      summary: Create a user
+      tags:
+      - User
+swagger: "2.0"

@@ -1,0 +1,253 @@
+2025/03/26 18:52:07.777650 [INFO] 2025-03-26 18:52:07.777 - 🚀 [1mLaunching server...[0m
+2025/03/26 18:52:07.777703 [INFO] 2025-03-26 18:52:07.777 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 18:52:07.777711 [INFO] 2025-03-26 18:52:07.777 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 18:52:07.777718 [INFO] 2025-03-26 18:52:07.777 - 📂 [1mPID:[0m 11644 | [1mGo Routines:[0m 1
+2025/03/26 18:52:13.973030 [INFO] 2025-03-26 18:52:13.973 - Get Handler is called
+2025/03/26 18:54:25.816190 [INFO] 2025-03-26 18:54:25.816 - Get Handler is called
+2025/03/26 18:54:26.793802 [INFO] 2025-03-26 18:54:26.793 - Get Handler is called
+2025/03/26 18:54:27.396101 [INFO] 2025-03-26 18:54:27.396 - Get Handler is called
+2025/03/26 18:54:49.771332 [INFO] 2025-03-26 18:54:49.771 - Received shutdown signal: interrupt
+2025/03/26 18:54:49.771404 [INFO] 2025-03-26 18:54:49.771 - Shutting down the server .....
+2025/03/26 18:57:08.918682 [INFO] 2025-03-26 18:57:08.918 - 🚀 [1mLaunching server...[0m
+2025/03/26 18:57:08.918897 [INFO] 2025-03-26 18:57:08.918 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 18:57:08.918908 [INFO] 2025-03-26 18:57:08.918 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 18:57:08.918915 [INFO] 2025-03-26 18:57:08.918 - 📂 [1mPID:[0m 11895 | [1mGo Routines:[0m 1
+2025/03/26 18:57:27.633037 [INFO] 2025-03-26 18:57:27.632 - Received shutdown signal: interrupt
+2025/03/26 18:57:27.633416 [INFO] 2025-03-26 18:57:27.633 - Shutting down the server .....
+2025/03/26 18:57:27.633980 [ERROR] 2025-03-26 18:57:27.633 - Server is successfully shut down
+2025/03/26 19:00:14.384651 [INFO] 2025-03-26 19:00:14.384 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:00:14.385012 [INFO] 2025-03-26 19:00:14.385 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:00:14.385023 [INFO] 2025-03-26 19:00:14.385 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:00:14.385032 [INFO] 2025-03-26 19:00:14.385 - 📂 [1mPID:[0m 12085 | [1mGo Routines:[0m 1
+2025/03/26 19:00:19.260330 [INFO] 2025-03-26 19:00:19.260 - Received shutdown signal: interrupt
+2025/03/26 19:00:19.260497 [INFO] 2025-03-26 19:00:19.260 - Shutting down the server .....
+2025/03/26 19:00:19.260772 [ERROR] 2025-03-26 19:00:19.260 - Server is successfully shut down
+2025/03/26 19:00:23.726967 [INFO] 2025-03-26 19:00:23.726 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:00:23.726992 [INFO] 2025-03-26 19:00:23.726 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:00:23.726999 [INFO] 2025-03-26 19:00:23.726 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:00:23.727005 [INFO] 2025-03-26 19:00:23.727 - 📂 [1mPID:[0m 12153 | [1mGo Routines:[0m 1
+2025/03/26 19:00:42.260624 [INFO] 2025-03-26 19:00:42.260 - Received shutdown signal: interrupt
+2025/03/26 19:00:42.260708 [INFO] 2025-03-26 19:00:42.260 - Shutting down the server .....
+2025/03/26 19:00:42.260905 [ERROR] 2025-03-26 19:00:42.260 - Server is successfully shut down
+2025/03/26 19:00:44.568881 [INFO] 2025-03-26 19:00:44.568 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:00:44.568917 [INFO] 2025-03-26 19:00:44.568 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:00:44.569007 [INFO] 2025-03-26 19:00:44.569 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:00:44.569016 [INFO] 2025-03-26 19:00:44.569 - 📂 [1mPID:[0m 12224 | [1mGo Routines:[0m 1
+2025/03/26 19:00:52.780851 [INFO] 2025-03-26 19:00:52.780 - Received shutdown signal: interrupt
+2025/03/26 19:00:52.780936 [INFO] 2025-03-26 19:00:52.780 - Shutting down the server .....
+2025/03/26 19:00:52.781145 [ERROR] 2025-03-26 19:00:52.781 - Server is successfully shut down
+2025/03/26 19:03:27.000587 [INFO] 2025-03-26 19:03:27.000 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:03:27.000939 [INFO] 2025-03-26 19:03:27.000 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:03:27.000947 [INFO] 2025-03-26 19:03:27.000 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:03:27.000961 [INFO] 2025-03-26 19:03:27.000 - 📂 [1mPID:[0m 12401 | [1mGo Routines:[0m 1
+2025/03/26 19:03:37.574797 [INFO] 2025-03-26 19:03:37.574 - Received shutdown signal: interrupt
+2025/03/26 19:03:37.575047 [INFO] 2025-03-26 19:03:37.575 - Shutting down the server .....
+2025/03/26 19:03:37.575300 [ERROR] 2025-03-26 19:03:37.575 - Server is successfully shut down
+2025/03/26 19:04:14.061495 [INFO] 2025-03-26 19:04:14.061 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:04:14.061783 [INFO] 2025-03-26 19:04:14.061 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:04:14.061791 [INFO] 2025-03-26 19:04:14.061 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:04:14.061797 [INFO] 2025-03-26 19:04:14.061 - 📂 [1mPID:[0m 12487 | [1mGo Routines:[0m 1
+2025/03/26 19:04:15.162948 [INFO] 2025-03-26 19:04:15.162 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=274.791µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:04:15.163004 [INFO] 2025-03-26 19:04:15.163 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=347.916µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:04:22.956013 [INFO] 2025-03-26 19:04:22.955 - Received shutdown signal: interrupt
+2025/03/26 19:04:22.956134 [INFO] 2025-03-26 19:04:22.956 - Shutting down the server .....
+2025/03/26 19:04:22.956500 [ERROR] 2025-03-26 19:04:22.956 - Server is successfully shut down
+2025/03/26 19:06:28.759646 [INFO] 2025-03-26 19:06:28.759 - 🚀 %sLaunching server...%s	[1m	[0m
+2025/03/26 19:06:28.759865 [INFO] 2025-03-26 19:06:28.759 - 🌐 %sListening on:%s %shttp://localhost:%s%s%s	[1m	[0m	[36m	[0m	[32m	:8080
+2025/03/26 19:06:28.759877 [INFO] 2025-03-26 19:06:28.759 - 📡 %sNetwork:%s %slocalhost | %s0.0.0.0%s	[1m	[0m	[32m	[32m	[0m
+2025/03/26 19:06:28.759884 [INFO] 2025-03-26 19:06:28.759 - 📂 %sPID:%s %d | %sGo Routines:%s %d	[1m	[0m	12802	[1m	[0m	1
+2025/03/26 19:06:58.166081 [INFO] 2025-03-26 19:06:58.165 - Received shutdown signal: %v	interrupt
+2025/03/26 19:06:58.166420 [INFO] 2025-03-26 19:06:58.166 - Shutting down the server .....
+2025/03/26 19:06:58.166844 [ERROR] 2025-03-26 19:06:58.166 - Server is successfully shut down
+2025/03/26 19:06:59.480080 [INFO] 2025-03-26 19:06:59.479 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:06:59.480118 [INFO] 2025-03-26 19:06:59.480 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:06:59.480126 [INFO] 2025-03-26 19:06:59.480 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:06:59.480145 [INFO] 2025-03-26 19:06:59.480 - 📂 [1mPID:[0m 12875 | [1mGo Routines:[0m 1
+2025/03/26 19:07:11.052597 [INFO] 2025-03-26 19:07:11.052 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=3.682541ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:07:11.052652 [INFO] 2025-03-26 19:07:11.052 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=3.763ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:07:22.840926 [INFO] 2025-03-26 19:07:22.840 - Received shutdown signal: interrupt
+2025/03/26 19:07:22.841110 [INFO] 2025-03-26 19:07:22.841 - Shutting down the server .....
+2025/03/26 19:07:22.942577 [ERROR] 2025-03-26 19:07:22.942 - Server is successfully shut down
+2025/03/26 19:08:54.939045 [INFO] 2025-03-26 19:08:54.938 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:08:54.939287 [INFO] 2025-03-26 19:08:54.939 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:08:54.939296 [INFO] 2025-03-26 19:08:54.939 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:08:54.939303 [INFO] 2025-03-26 19:08:54.939 - 📂 [1mPID:[0m 13221 | [1mGo Routines:[0m 1
+2025/03/26 19:09:04.634865 [INFO] 2025-03-26 19:09:04.634 - Received shutdown signal: interrupt
+2025/03/26 19:09:04.635029 [INFO] 2025-03-26 19:09:04.635 - Shutting down the server .....
+2025/03/26 19:09:04.635694 [ERROR] 2025-03-26 19:09:04.635 - Server is successfully shut down
+2025/03/26 19:09:11.437187 [INFO] 2025-03-26 19:09:11.436 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:09:11.437224 [INFO] 2025-03-26 19:09:11.437 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:09:11.437232 [INFO] 2025-03-26 19:09:11.437 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:09:11.437238 [INFO] 2025-03-26 19:09:11.437 - 📂 [1mPID:[0m 13390 | [1mGo Routines:[0m 1
+2025/03/26 19:09:23.967739 [INFO] 2025-03-26 19:09:23.967 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=1.970542ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:09:23.967782 [INFO] 2025-03-26 19:09:23.967 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=2.043875ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:09:31.218152 [INFO] 2025-03-26 19:09:31.218 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=44.958µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:09:31.218206 [INFO] 2025-03-26 19:09:31.218 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=112.208µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:12:58.511739 [INFO] 2025-03-26 19:12:58.510 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:12:58.512434 [INFO] 2025-03-26 19:12:58.512 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:12:58.512442 [INFO] 2025-03-26 19:12:58.512 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:12:58.512447 [INFO] 2025-03-26 19:12:58.512 - 📂 [1mPID:[0m 13905 | [1mGo Routines:[0m 1
+2025/03/26 19:13:11.525054 [INFO] 2025-03-26 19:13:11.525 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=604.333µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:11.525800 [INFO] 2025-03-26 19:13:11.525 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=1.401958ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:13.027061 [INFO] 2025-03-26 19:13:13.027 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=57.75µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:13.027155 [INFO] 2025-03-26 19:13:13.027 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=156.875µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:17.929820 [INFO] 2025-03-26 19:13:17.929 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=61.208µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:17.929907 [INFO] 2025-03-26 19:13:17.929 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=163.458µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:18.864846 [INFO] 2025-03-26 19:13:18.864 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=59.541µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:13:18.864926 [INFO] 2025-03-26 19:13:18.864 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=153.5µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:28:32.583657 [INFO] 2025-03-26 19:28:32.583 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:28:32.584602 [INFO] 2025-03-26 19:28:32.584 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:28:32.584618 [INFO] 2025-03-26 19:28:32.584 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:28:32.584627 [INFO] 2025-03-26 19:28:32.584 - 📂 [1mPID:[0m 14215 | [1mGo Routines:[0m 1
+2025/03/26 19:28:32.585290 [ERROR] 2025-03-26 19:28:32.585 - listen tcp4 :8080: bind: address already in use
+2025/03/26 19:30:40.303859 [INFO] 2025-03-26 19:30:40.303 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=60.708µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:30:40.305941 [INFO] 2025-03-26 19:30:40.305 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=2.219625ms, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:30:46.861791 [INFO] 2025-03-26 19:30:46.861 - Received shutdown signal: interrupt
+2025/03/26 19:30:46.863381 [INFO] 2025-03-26 19:30:46.863 - Shutting down the server .....
+2025/03/26 19:30:46.863558 [ERROR] 2025-03-26 19:30:46.863 - Server is successfully shut down
+2025/03/26 19:30:51.576118 [INFO] 2025-03-26 19:30:51.575 - 🚀 [1mLaunching server...[0m
+2025/03/26 19:30:51.576140 [INFO] 2025-03-26 19:30:51.576 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 19:30:51.576148 [INFO] 2025-03-26 19:30:51.576 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 19:30:51.576154 [INFO] 2025-03-26 19:30:51.576 - 📂 [1mPID:[0m 14381 | [1mGo Routines:[0m 1
+2025/03/26 19:30:51.576590 [ERROR] 2025-03-26 19:30:51.576 - listen tcp4 :8080: bind: address already in use
+2025/03/26 19:30:53.559196 [INFO] 2025-03-26 19:30:53.559 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=95.125µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:30:53.559293 [INFO] 2025-03-26 19:30:53.559 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=249.416µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 19:31:31.527820 [INFO] 2025-03-26 19:31:31.527 - Received shutdown signal: interrupt
+2025/03/26 19:31:31.528019 [INFO] 2025-03-26 19:31:31.528 - Shutting down the server .....
+2025/03/26 19:31:31.528214 [ERROR] 2025-03-26 19:31:31.528 - Server is successfully shut down
+2025/03/26 20:41:17.908976 [INFO] 2025-03-26 20:41:17.907 - Received shutdown signal: interrupt
+2025/03/26 20:41:17.910296 [INFO] 2025-03-26 20:41:17.909 - Shutting down the server .....
+2025/03/26 20:41:18.015781 [ERROR] 2025-03-26 20:41:18.015 - Server is successfully shut down
+2025/03/26 21:34:55.644475 [INFO] 2025-03-26 21:34:55.644 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:34:55.645209 [INFO] 2025-03-26 21:34:55.645 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:34:55.645221 [INFO] 2025-03-26 21:34:55.645 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:34:55.645239 [INFO] 2025-03-26 21:34:55.645 - 📂 [1mPID:[0m 16380 | [1mGo Routines:[0m 1
+2025/03/26 21:34:56.659124 [INFO] 2025-03-26 21:34:56.659 - Received shutdown signal: interrupt
+2025/03/26 21:34:56.659257 [INFO] 2025-03-26 21:34:56.659 - Shutting down the server .....
+2025/03/26 21:34:56.659511 [ERROR] 2025-03-26 21:34:56.659 - Server is successfully shut down
+2025/03/26 21:41:05.931867 [INFO] 2025-03-26 21:41:05.931 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:41:05.932581 [INFO] 2025-03-26 21:41:05.932 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:41:05.932592 [INFO] 2025-03-26 21:41:05.932 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:41:05.932617 [INFO] 2025-03-26 21:41:05.932 - 📂 [1mPID:[0m 16852 | [1mGo Routines:[0m 1
+2025/03/26 21:41:09.717798 [INFO] 2025-03-26 21:41:09.717 - Received shutdown signal: interrupt
+2025/03/26 21:41:09.717971 [INFO] 2025-03-26 21:41:09.717 - Shutting down the server .....
+2025/03/26 21:41:09.718411 [ERROR] 2025-03-26 21:41:09.718 - Server is successfully shut down
+2025/03/26 21:43:52.681549 [INFO] 2025-03-26 21:43:52.681 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:43:52.681714 [INFO] 2025-03-26 21:43:52.681 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:43:52.681727 [INFO] 2025-03-26 21:43:52.681 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:43:52.681755 [INFO] 2025-03-26 21:43:52.681 - 📂 [1mPID:[0m 17247 | [1mGo Routines:[0m 1
+2025/03/26 21:44:00.209874 [INFO] 2025-03-26 21:44:00.209 - Received shutdown signal: interrupt
+2025/03/26 21:44:00.210534 [INFO] 2025-03-26 21:44:00.210 - Shutting down the server .....
+2025/03/26 21:44:00.210801 [ERROR] 2025-03-26 21:44:00.210 - Server is successfully shut down
+2025/03/26 21:44:06.836777 [INFO] 2025-03-26 21:44:06.836 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:44:06.836836 [INFO] 2025-03-26 21:44:06.836 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:44:06.836854 [INFO] 2025-03-26 21:44:06.836 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:44:06.836869 [INFO] 2025-03-26 21:44:06.836 - 📂 [1mPID:[0m 17294 | [1mGo Routines:[0m 1
+2025/03/26 21:44:19.917759 [INFO] 2025-03-26 21:44:19.917 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=33.666µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:44:19.917821 [INFO] 2025-03-26 21:44:19.917 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=132.209µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:44:20.749272 [INFO] 2025-03-26 21:44:20.749 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=41.083µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:44:20.749327 [INFO] 2025-03-26 21:44:20.749 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=109.667µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:44:21.359676 [INFO] 2025-03-26 21:44:21.359 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=67.958µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:44:21.359726 [INFO] 2025-03-26 21:44:21.359 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=128.583µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 21:45:52.084961 [INFO] 2025-03-26 21:45:52.084 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:45:52.085122 [INFO] 2025-03-26 21:45:52.085 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:45:52.085145 [INFO] 2025-03-26 21:45:52.085 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:45:52.085152 [INFO] 2025-03-26 21:45:52.085 - 📂 [1mPID:[0m 17895 | [1mGo Routines:[0m 1
+2025/03/26 21:45:52.085974 [ERROR] 2025-03-26 21:45:52.085 - listen tcp4 :8080: bind: address already in use
+2025/03/26 21:45:52.086009 [ERROR] 2025-03-26 21:45:52.086 - Server error listen tcp4 :8080: bind: address already in use
+2025/03/26 21:45:58.431912 [INFO] 2025-03-26 21:45:58.431 - Received shutdown signal: interrupt
+2025/03/26 21:45:58.432138 [INFO] 2025-03-26 21:45:58.432 - Shutting down the server .....
+2025/03/26 21:45:58.432437 [ERROR] 2025-03-26 21:45:58.432 - Server is successfully shut down
+2025/03/26 21:46:01.576257 [INFO] 2025-03-26 21:46:01.575 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:46:01.576358 [INFO] 2025-03-26 21:46:01.576 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:46:01.576407 [INFO] 2025-03-26 21:46:01.576 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:46:01.576457 [INFO] 2025-03-26 21:46:01.576 - 📂 [1mPID:[0m 18001 | [1mGo Routines:[0m 1
+2025/03/26 21:46:39.690667 [INFO] 2025-03-26 21:46:39.690 - Received shutdown signal: interrupt
+2025/03/26 21:46:39.690818 [INFO] 2025-03-26 21:46:39.690 - Shutting down the server .....
+2025/03/26 21:46:39.691141 [ERROR] 2025-03-26 21:46:39.691 - Server is successfully shut down
+2025/03/26 21:46:47.312905 [INFO] 2025-03-26 21:46:47.312 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:46:47.312942 [INFO] 2025-03-26 21:46:47.312 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:46:47.312964 [INFO] 2025-03-26 21:46:47.312 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:46:47.312971 [INFO] 2025-03-26 21:46:47.312 - 📂 [1mPID:[0m 18181 | [1mGo Routines:[0m 1
+2025/03/26 21:46:58.710327 [INFO] 2025-03-26 21:46:58.710 - Received shutdown signal: interrupt
+2025/03/26 21:46:58.710485 [INFO] 2025-03-26 21:46:58.710 - Shutting down the server .....
+2025/03/26 21:46:58.710795 [ERROR] 2025-03-26 21:46:58.710 - Server is successfully shut down
+2025/03/26 21:47:01.441882 [INFO] 2025-03-26 21:47:01.441 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:47:01.441962 [INFO] 2025-03-26 21:47:01.441 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:47:01.442015 [INFO] 2025-03-26 21:47:01.441 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:47:01.442032 [INFO] 2025-03-26 21:47:01.442 - 📂 [1mPID:[0m 18285 | [1mGo Routines:[0m 1
+2025/03/26 21:47:22.455231 [INFO] 2025-03-26 21:47:22.454 - Received shutdown signal: interrupt
+2025/03/26 21:47:22.456131 [INFO] 2025-03-26 21:47:22.456 - Shutting down the server .....
+2025/03/26 21:47:22.456524 [ERROR] 2025-03-26 21:47:22.456 - Server is successfully shut down
+2025/03/26 21:47:35.635710 [INFO] 2025-03-26 21:47:35.635 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:47:35.635941 [INFO] 2025-03-26 21:47:35.635 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:47:35.635955 [INFO] 2025-03-26 21:47:35.635 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:47:35.635962 [INFO] 2025-03-26 21:47:35.635 - 📂 [1mPID:[0m 18369 | [1mGo Routines:[0m 1
+2025/03/26 21:48:06.136449 [INFO] 2025-03-26 21:48:06.136 - Received shutdown signal: interrupt
+2025/03/26 21:48:06.137475 [INFO] 2025-03-26 21:48:06.137 - Shutting down the server .....
+2025/03/26 21:48:06.137763 [ERROR] 2025-03-26 21:48:06.137 - Server is successfully shut down
+2025/03/26 21:48:33.612223 [INFO] 2025-03-26 21:48:33.612 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:48:33.612341 [INFO] 2025-03-26 21:48:33.612 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:48:33.612361 [INFO] 2025-03-26 21:48:33.612 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:48:33.612368 [INFO] 2025-03-26 21:48:33.612 - 📂 [1mPID:[0m 18576 | [1mGo Routines:[0m 1
+2025/03/26 21:48:39.852266 [INFO] 2025-03-26 21:48:39.852 - Received shutdown signal: interrupt
+2025/03/26 21:48:39.852322 [INFO] 2025-03-26 21:48:39.852 - Shutting down the server .....
+2025/03/26 21:48:39.852438 [ERROR] 2025-03-26 21:48:39.852 - Server is successfully shut down
+2025/03/26 21:48:48.947925 [INFO] 2025-03-26 21:48:48.947 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:48:48.947956 [INFO] 2025-03-26 21:48:48.947 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:48:48.947966 [INFO] 2025-03-26 21:48:48.947 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:48:48.947971 [INFO] 2025-03-26 21:48:48.947 - 📂 [1mPID:[0m 18616 | [1mGo Routines:[0m 1
+2025/03/26 21:48:53.408125 [INFO] 2025-03-26 21:48:53.408 - Received shutdown signal: interrupt
+2025/03/26 21:48:53.408185 [INFO] 2025-03-26 21:48:53.408 - Shutting down the server .....
+2025/03/26 21:48:53.408340 [ERROR] 2025-03-26 21:48:53.408 - Server is successfully shut down
+2025/03/26 21:48:58.912205 [INFO] 2025-03-26 21:48:58.911 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:48:58.912239 [INFO] 2025-03-26 21:48:58.912 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:48:58.912261 [INFO] 2025-03-26 21:48:58.912 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:48:58.912269 [INFO] 2025-03-26 21:48:58.912 - 📂 [1mPID:[0m 18674 | [1mGo Routines:[0m 1
+2025/03/26 21:51:41.674965 [INFO] 2025-03-26 21:51:41.674 - Received shutdown signal: interrupt
+2025/03/26 21:51:41.675315 [INFO] 2025-03-26 21:51:41.675 - Shutting down the server .....
+2025/03/26 21:51:41.776529 [ERROR] 2025-03-26 21:51:41.776 - Server is successfully shut down
+2025/03/26 21:51:54.352856 [INFO] 2025-03-26 21:51:54.352 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:51:54.353033 [INFO] 2025-03-26 21:51:54.353 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:51:54.353051 [INFO] 2025-03-26 21:51:54.353 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:51:54.353057 [INFO] 2025-03-26 21:51:54.353 - 📂 [1mPID:[0m 18761 | [1mGo Routines:[0m 1
+2025/03/26 21:52:08.876198 [INFO] 2025-03-26 21:52:08.876 - Received shutdown signal: interrupt
+2025/03/26 21:52:08.876257 [INFO] 2025-03-26 21:52:08.876 - Shutting down the server .....
+2025/03/26 21:52:08.876422 [ERROR] 2025-03-26 21:52:08.876 - Server is successfully shut down
+2025/03/26 21:52:12.189146 [INFO] 2025-03-26 21:52:12.189 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:52:12.189167 [INFO] 2025-03-26 21:52:12.189 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:52:12.189175 [INFO] 2025-03-26 21:52:12.189 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:52:12.189181 [INFO] 2025-03-26 21:52:12.189 - 📂 [1mPID:[0m 18811 | [1mGo Routines:[0m 1
+2025/03/26 21:53:46.856761 [INFO] 2025-03-26 21:53:46.856 - Received shutdown signal: interrupt
+2025/03/26 21:53:46.857143 [INFO] 2025-03-26 21:53:46.857 - Shutting down the server .....
+2025/03/26 21:53:46.857615 [ERROR] 2025-03-26 21:53:46.857 - Server is successfully shut down
+2025/03/26 21:54:46.864668 [INFO] 2025-03-26 21:54:46.863 - 🚀 [1mLaunching server...[0m
+2025/03/26 21:54:46.864945 [INFO] 2025-03-26 21:54:46.864 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 21:54:46.864965 [INFO] 2025-03-26 21:54:46.864 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 21:54:46.864973 [INFO] 2025-03-26 21:54:46.864 - 📂 [1mPID:[0m 19007 | [1mGo Routines:[0m 1
+2025/03/26 21:58:05.507302 [INFO] 2025-03-26 21:58:05.506 - Received shutdown signal: interrupt
+2025/03/26 21:58:05.507706 [INFO] 2025-03-26 21:58:05.507 - Shutting down the server .....
+2025/03/26 21:58:05.609646 [ERROR] 2025-03-26 21:58:05.609 - Server is successfully shut down
+2025/03/26 22:00:27.342885 [INFO] 2025-03-26 22:00:27.342 - 🚀 [1mLaunching server...[0m
+2025/03/26 22:00:27.343205 [INFO] 2025-03-26 22:00:27.343 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 22:00:27.343216 [INFO] 2025-03-26 22:00:27.343 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 22:00:27.343232 [INFO] 2025-03-26 22:00:27.343 - 📂 [1mPID:[0m 19331 | [1mGo Routines:[0m 1
+2025/03/26 22:00:53.839638 [INFO] 2025-03-26 22:00:53.839 - Received shutdown signal: interrupt
+2025/03/26 22:00:53.840436 [INFO] 2025-03-26 22:00:53.840 - Shutting down the server .....
+2025/03/26 22:00:53.840594 [ERROR] 2025-03-26 22:00:53.840 - Server is successfully shut down
+2025/03/26 22:01:39.417835 [INFO] 2025-03-26 22:01:39.417 - 🚀 [1mLaunching server...[0m
+2025/03/26 22:01:39.418430 [INFO] 2025-03-26 22:01:39.418 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 22:01:39.418459 [INFO] 2025-03-26 22:01:39.418 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 22:01:39.418465 [INFO] 2025-03-26 22:01:39.418 - 📂 [1mPID:[0m 19540 | [1mGo Routines:[0m 1
+2025/03/26 22:01:53.603458 [INFO] 2025-03-26 22:01:53.603 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=94.709µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 22:01:53.603739 [INFO] 2025-03-26 22:01:53.603 - Method:%!(EXTRA string=GET, string=Routes:, string=http://localhost:8080/auth/admin/info, string=Status:, int=202, string=Duration:, time.Duration=408.5µs, string=ClientIP:, net.IP=127.0.0.1)
+2025/03/26 22:01:58.559699 [INFO] 2025-03-26 22:01:58.559 - Received shutdown signal: interrupt
+2025/03/26 22:01:58.559758 [INFO] 2025-03-26 22:01:58.559 - Shutting down the server .....
+2025/03/26 22:01:58.560071 [ERROR] 2025-03-26 22:01:58.560 - Server is successfully shut down
+2025/03/26 22:53:30.217120 [INFO] 2025-03-26 22:53:30.216 - 🚀 [1mLaunching server...[0m
+2025/03/26 22:53:30.217619 [INFO] 2025-03-26 22:53:30.217 - 🌐 [1mListening on:[0m [36mhttp://localhost:[0m[32m:8080
+2025/03/26 22:53:30.217671 [INFO] 2025-03-26 22:53:30.217 - 📡 [1mNetwork:[0m [32mlocalhost | [32m0.0.0.0[0m
+2025/03/26 22:53:30.217689 [INFO] 2025-03-26 22:53:30.217 - 📂 [1mPID:[0m 44826 | [1mGo Routines:[0m 1
+2025/03/26 22:53:31.423550 [INFO] 2025-03-26 22:53:31.423 - Received shutdown signal: interrupt
+2025/03/26 22:53:31.423696 [INFO] 2025-03-26 22:53:31.423 - Shutting down the server .....
+2025/03/26 22:53:31.423904 [ERROR] 2025-03-26 22:53:31.423 - Server is successfully shut down

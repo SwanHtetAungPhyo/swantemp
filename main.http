@@ -1,0 +1,12 @@
+GET http://localhost:8080/public/info
+
+
+###
+GET http://localhost:8080/auth/admin/info
+
+###
+GET http://localhost:3500/api2/
+Accept: application/json
+
+###
+POST http://localhost:8080/api2/user
